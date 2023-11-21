@@ -1,0 +1,33 @@
+Hello [%TITLE%] [%FISRTNAME] [%NAME%],
+
+You are among our best customers in [%CITY%]. This is why we would like to thank you.
+
+We are organizing a raffle for which you have been selected among several people.
+There are many prizes to win through a random drawing.
+
+To enter the raffle, simply return this message after checking your details and modifying them if necessary.
+
+
+Name:		[%TITLE%] [%FIRSTNAME%] [%NAME%]
+Address:	                [%ADDR1%]
+		[%ADDR2%]
+City:		[%CITY%] [%ZIP%]
+
+
+Don't miss this fabulous opportunity.
+
+Best regards.
+
+
+
+Paul Smith
+
+Commercial Services HawaiiStore
+http://example.windev.com/hawaii
+
+
+
+
+
+(Fictitious message sent from the mailshot example supplied with WinDev)
+

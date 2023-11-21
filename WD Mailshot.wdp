@@ -1,0 +1,118 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Mailshot
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Mailshot project
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Mailshot
+    internal_properties : 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
+    configuration_id : 17522048666447558544
+    type : 1
+    generation_name : WD Mailshot.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\email.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4ac3814c0219c598
+  elements :
+   -
+     name : TEST_Main
+     identifier : 0x4a09979b0000bba6
+     internal_properties : CAAAAAgAAAA9GRUJtuPL1OOelkk40jE7TRiU1HM+tbG2ObyTChD6DuLeDSyMfA4JzHZgWNgI8OAoKA==
+     physical_name : .\TEST_Main.wxt
+     type : 17
+   -
+     name : WIN_Main
+     identifier : 0x3e3010ec0dc66001
+     internal_properties : CAAAAAgAAABO1Kb6SXY+cX4pfbDX8hacejkhuSabsxmQ/xw7uHSgqADye05tU+dgFwH7xU2Df3Fb2w==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_Connection
+     identifier : 0x3e3010ed21096030
+     internal_properties : CAAAAAgAAABLx7NXVBEZwo188DemM1Op46zujml3D2aVWfnf53WZn6WrmKEe4mjj6lROqmpmEoZO1g==
+     physical_name : .\WIN_Connection.wdw
+     type : 2
+   -
+     name : SET_HFTest
+     identifier : 0x428204b6004e4de3
+     internal_properties : CAAAAAgAAABWPL7iwb72+UYhZbjPzT4kchexYcIGX8NSSkHBV9s55wUZEDl1S99YHxmDfQX7h3lDww==
+     physical_name : .\SET_HFTest.wdg
+     type : 7
+   -
+     name : TEST_SET_HFTest
+     identifier : 0x428204bf0050709f
+     internal_properties : CAAAAAgAAACGjO4y8a4GKTYRFci/Xk6s4qHp8UTg7sC2UVauonCkpKSun6oF+4+IT8kzjRXLtymTkw==
+     physical_name : .\TEST_SET_HFTest.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Mailshot.ana\WD Mailshot.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAABFztOWA3728yPE2GvPfPKo1Q5ZDt9Y2DJ0SdJ9AZM70LlwE50qmaabwKq216egKRRQqYmfy84UqrtMZ/VwM5N
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABLAqG03Cd0PjRl2tw1ZGbysf1C0SdYPpDJf8MZ9nK0muBnFBYTsOe/7vXo/K3uEEFMPbyTiYf5yT/aIbSe40GQgZw98bJ+emJbkSygadGf4mdJy70lwAYLHR05Kg9pU1FBoiRSUrKcOVJx/Y18iOMjZdRR02sQ6nLgXonnEIb8
+     code : |1+
+      gsUser is string	=INIRead("CONNECTION","User","",CompleteDir(fExeDir())+"Mailshot.ini")		// Messaging account
+      gsPwd is string	=INIRead("CONNECTION","Pwd","",CompleteDir(fExeDir())+"Mailshot.ini")		// Password
+      gsPOP3 is string	=INIRead("CONNECTION","POP3","",CompleteDir(fExeDir())+"Mailshot.ini")	// Address of the POP3 server
+      gsSMTP is string	=INIRead("CONNECTION","SMTP","",CompleteDir(fExeDir())+"Mailshot.ini")	// Address of the SMTP server
+      gsSender is string	=INIRead("CONNECTION","email","",CompleteDir(fExeDir())+"Mailshot.ini")	// email of the sender for the answer
+      gbSessionOpen is boolean	// True if the connection was established with the email server
+     type : 196608
+   -
+     code : |1+
+      // Disconnection from the messaging server
+      IF gbSessionOpen THEN EmailCloseSession(gsUser)
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Mailshot
+     identifier : 0x4ac3814d021ec6b1
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
